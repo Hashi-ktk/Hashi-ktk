@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm a senior at Air University, majoring in computer science. Ever since I was a kid, I've wanted to work in the field of AI, ML, and Data Science. I plan and execute complex and challenging technical projects.
+
+<img src="https://komarev.com/ghpvc/?username=Hashi-ktk&label=Profile%20views&color=0e75b6&style=flat">
+
+<img align="left" alt= "streak stat card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Hashi-ktk&theme=radical"/>
+<img   alt= " stat card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Hashi-ktk&show_icons=true&theme=radical">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaimaben&layout=compact)](https://github.com/Hashi-ktk/github-readme-stats">
+
+
 
 <!--
 **Hashi-ktk/Hashi-ktk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
