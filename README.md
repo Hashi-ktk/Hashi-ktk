@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hashir Imran</h1>
-<h3 align="center">I'm a senior at Air University, majoring in computer science. I plan and execute complex and challenging technical projects.</h3>
+<h3 align="center">I'm a senior AI Engineer. I plan and execute complex and challenging technical projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashi-ktk&label=Profile%20views&color=0e75b6&style=flat" alt="hashi-ktk" /> </p>
 
